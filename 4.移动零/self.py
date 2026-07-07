@@ -4,7 +4,7 @@ from typing import List
 class Solution:
     def moveZeroes(self, nums: List[int]) -> None:
         """
-        Do not return anything, modify nums in-place instead.
+        Do ot return anything, modify nums in-place instead.
         """
         i=0
         j=0
